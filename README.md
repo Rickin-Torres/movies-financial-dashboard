@@ -23,7 +23,7 @@ To maintain high data integrity and prevent unnecessary information loss across 
 
 ## 📸 Dashboard Preview
 
-![Power BI Dashboard Snapshot](Dashboard_Snapshot.png)
+![Power BI Dashboard Snapshot](movie-boxoffice-analytics.png)
 
 ## 📁 Repository Structure
 
